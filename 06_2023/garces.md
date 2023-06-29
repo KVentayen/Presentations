@@ -61,6 +61,7 @@ A lot of engineering is problems, so what is it about?
 Take the following for example:
 
 What is the solution to the expression below?
+
 $$
 \begin{align*}
 1 &+ 3
@@ -68,6 +69,7 @@ $$
 $$
 
 Trivial. The answer is of course 4
+
 $$
 \begin{align*}
 1 + 3 &= 4
@@ -75,6 +77,7 @@ $$
 $$
 
 But it is not wrong to the following either:
+
 $$
 \begin{align*}
 1 + 3 &= 2 + 2\\
