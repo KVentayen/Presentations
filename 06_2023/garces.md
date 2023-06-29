@@ -103,7 +103,7 @@ $$
     - Associate with people in and out of your field of study
     - Make friends with your teachers, instructors, and professors too!
 
- | .
+. | .
 --- | ---
 ![](assets/high_asian.jpg) | ![](assets/high_graduation.jpg)
 ![](assets/college_elevator.jpg) | ![](assets/college_bus.jpg)
