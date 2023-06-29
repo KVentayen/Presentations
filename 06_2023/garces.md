@@ -16,6 +16,10 @@ This space is designated for Markdown resources:
 <!--
     This is a multiline comment
 -->
+# Engineering from an Undergraduate's Perspective
+There is no experience like the ones you take time to experience.
+
+For some that may be experience gained in college.
 
 # Introduction
 - Garces Memorial High School (August 2015 - May 2019)
