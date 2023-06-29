@@ -105,7 +105,7 @@ $$
 
 . | .
 --- | ---
-![](assets/high_asian.jpg) | ![](assets/high_graduation.jpg)
+![](assets/high_asian.JPG) | ![](assets/high_graduation.jpg)
 ![](assets/college_elevator.jpg) | ![](assets/college_bus.jpg)
 ![](assets/college_bench.jpg) | ![](assets/college_table.jpg)
 
